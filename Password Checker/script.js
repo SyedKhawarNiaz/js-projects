@@ -18,6 +18,6 @@ password.addEventListener("input", () => {
     show.textContent = "Password must contain Numeric characters";
   } else {
     show.style.color = "black";
-    show.textContent = "Strong Password*"
+    show.textContent = "Strong Password*";
   }
 });
