@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "JellyFish",
+    "window.menuBarVisibility": "compact",
+    "files.associations": {
+      "*.html": "html"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "livePreview.defaultPreviewPath": "d:/Web Development/HTML/Position2.html",
+    "tabnine.experimentalAutoImports": true,
+    "editor.formatOnSave": true,
+  
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "notebook.formatOnSave.enabled": true,
+    "files.autoSave": "afterDelay",
+    "css.lint.unknownAtRules": "ignore",
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
+  }
+  
