@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body,
+html {
+  width: 100%;
+  height: 100vh;
+  color: aliceblue;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.boxes {
+  width: 200px;
+  border-radius: 10px;
+  height: 200px;
+  background-color: rgb(243, 235, 243);
+  cursor: pointer;
+}
+.innerbox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 40px;
+  background-image: url(./StockCake-Reading\ by\ Water_1724118841.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
